@@ -1,13 +1,13 @@
 # VBA-challenge
 Module 2: VBA Challenge
 
-This repository contains the following:
+#This repository contains the following:
 
 - .bas file with the VBA code
 - 3 screenshots of results from each tab
 - README.md file containing more information on the submission
 
-The references used in the VBA code
+#The references used in the VBA code
 
 1) Function to count no of rows in the dataset: Cells(Rows.Count, 1).End(xlUp).Row
    retrieved from: https://www.wallstreetmojo.com/vba-row-count/
