@@ -67,7 +67,7 @@ For Each ws In Worksheets
     Next r
     ' for loop through all rows of data_________________________________________________________________________________________________________________
     
-    MsgBox (counter)
+    
     
     Dim tick_inc, tick_dec, tick_vol As String ' store ticker with greatest % increase, greatest % decrease, and greatest total volume
     Dim val_inc, val_dec As Double 'store percentage values for stocks with greatest % increase and decrease
