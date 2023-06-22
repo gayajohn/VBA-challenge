@@ -3,6 +3,7 @@ Module 2: VBA Challenge
 
 This repository contains the following:
 
+- Macro-Enabled .xlsm file with multiple year stock data 
 - .bas file with the VBA code
 - 3 screenshots of results from each tab
 - README.md file containing more information on the submission
